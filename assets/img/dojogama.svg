@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64px"
+   height="64px"
+   id="svg3848"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="dojogama_color_64_64_vector.svg"
+   inkscape:export-filename="/home/tiago/Dropbox/Projetos/DojoGamaIcon/dojogama_256_256.png"
+   inkscape:export-xdpi="360"
+   inkscape:export-ydpi="360">
+  <defs
+     id="defs3850" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.556349"
+     inkscape:cx="39.443565"
+     inkscape:cy="19.336509"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="824"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="true"
+     inkscape:snap-to-guides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3889" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3853">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="fill:#f78820;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 35.145625,25.203686 c 0,0 -16.465749,-7.701283 -13.844202,-12.373728 2.621548,-4.672444 10.269692,-2.794111 14.933682,-4.292816 4.663991,-1.498705 -3.812278,-7.4891153 -3.812278,-7.4891153 0,0 8.968326,1.6914904 9.930842,7.9128483 0.962517,6.221358 -12.26535,2.679836 -15.465944,5.009324 -2.679279,1.950061 8.2579,11.233487 8.2579,11.233487 z"
+       id="path3784"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzczsc"
+       inkscape:export-filename="/home/tiago/Dropbox/Projetos/path3057.png"
+       inkscape:export-xdpi="24.664829"
+       inkscape:export-ydpi="24.664829" />
+    <path
+       inkscape:export-ydpi="24.664829"
+       inkscape:export-xdpi="24.664829"
+       inkscape:export-filename="/home/tiago/Dropbox/Projetos/path3057.png"
+       sodipodi:nodetypes="czzczsc"
+       inkscape:connector-curvature="0"
+       id="path3782"
+       d="m 34.58168,30.429453 c 0,0 -3.524725,-12.207986 1.109538,-16.005383 4.634263,-3.797396 12.066641,0.990558 16.979596,-2.291605 4.912955,-3.282161 -1.822798,-9.9988969 -1.822798,-9.9988969 0,0 10.4079,3.9637393 7.826316,10.5923029 -2.581584,6.628566 -12.437142,5.785195 -16.597486,5.210228 -6.965427,-0.962635 -7.495166,12.493353 -7.495166,12.493354 z"
+       style="fill:#f78820;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       style="fill:#3a8cb5;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3770"
+       width="47"
+       height="41.314018"
+       x="9.636364"
+       y="21.831171"
+       ry="5.0661402"
+       inkscape:export-filename="/home/tiago/Dropbox/Projetos/path3057.png"
+       inkscape:export-xdpi="24.664829"
+       inkscape:export-ydpi="24.664829" />
+    <rect
+       style="fill:#f78820;fill-opacity:1;stroke:none;stroke-width:0.10000000000000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3774"
+       width="46.477291"
+       height="7.1509194"
+       x="9.886364"
+       y="27.319305"
+       inkscape:export-filename="/home/tiago/Dropbox/Projetos/path3057.png"
+       inkscape:export-xdpi="24.664829"
+       inkscape:export-ydpi="24.664829" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3055"
+       d="m 23.925392,48.002739 c -3.739344,0 -6.770682,-3.031342 -6.770682,-6.770693 0,-1.837768 0.741053,-3.502609 1.929636,-4.722555 l 9.35202,9.766722 c -1.197663,1.071235 -2.777683,1.726526 -4.510974,1.726526 z"
+       style="fill:#e8e8e1;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/tiago/Dropbox/Projetos/path3057.png"
+       inkscape:export-xdpi="24.664829"
+       inkscape:export-ydpi="24.664829" />
+    <path
+       style="fill:#e8e8e1;fill-opacity:1;stroke:none"
+       d="m 42.345683,48.006193 c 3.739344,0 6.770692,-3.031341 6.770692,-6.770692 0,-1.837776 -0.741052,-3.502621 -1.92965,-4.722555 l -9.352018,9.766719 c 1.197661,1.071235 2.777684,1.726528 4.510976,1.726528 z"
+       id="path3057"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="24.664829"
+       inkscape:export-ydpi="24.664829" />
+  </g>
+</svg>
