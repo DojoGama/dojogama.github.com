@@ -12,7 +12,7 @@
 	<link rel="stylesheet" href="assets/bootstrap/css/custom-bootstrap.css">
 	<!--End Style -->
 	<!-- Favicon -->
-	<link rel="icon" href="assets/ico/favicon.ico">
+	<link rel="icon" href="favicon.ico">
 </head>
 
 <body>
@@ -52,10 +52,42 @@
 	    </div>
 	    <br>
 		<div class="container">
-			<!-- Conteúdo -->
-			<div class="well">
+			<div class="row-fluid">
+				<div class="span4">
+					<div class="title">Local</div>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pretium sit amet augue ac sodales. Pellentesque sollicitudin tellus sit amet felis convallis, a pretium turpis lacinia. Duis condimentum, turpis et fringilla condimentum, ipsum justo facilisis justo, at tincidunt diam est id ligula. Praesent imperdiet est eu nunc venenatis, eu viverra nibh lobortis. Phasellus suscipit at velit vel faucibus. Ut nec purus vitae risus blandit porttitor sit amet sit amet magna. Aenean porta dignissim arcu sit amet bibendum.</p>
+				</div>
 				
+				<div class="span4">
+					<div class="title">Pessoas</div>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pretium sit amet augue ac sodales. Pellentesque sollicitudin tellus sit amet felis convallis, a pretium turpis lacinia. Duis condimentum, turpis et fringilla condimentum, ipsum justo facilisis justo, at tincidunt diam est id ligula. Praesent imperdiet est eu nunc venenatis, eu viverra nibh lobortis. Phasellus suscipit at velit vel faucibus. Ut nec purus vitae risus blandit porttitor sit amet sit amet magna. Aenean porta dignissim arcu sit amet bibendum.</p>
+				</div>
+				
+				<div class="span4">
+					<div class="title">Objetivos</div>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pretium sit amet augue ac sodales. Pellentesque sollicitudin tellus sit amet felis convallis, a pretium turpis lacinia. Duis condimentum, turpis et fringilla condimentum, ipsum justo facilisis justo, at tincidunt diam est id ligula. Praesent imperdiet est eu nunc venenatis, eu viverra nibh lobortis. Phasellus suscipit at velit vel faucibus. Ut nec purus vitae risus blandit porttitor sit amet sit amet magna. Aenean porta dignissim arcu sit amet bibendum.</p>
+				</div>
 			</div>
+
+			<div class="row-fluid photos">
+				<div class="span4 well">
+					<img src="assets/img/dojogama.svg" alt="img" class="img-polaroid">
+					<img src="assets/img/dojogama.svg" alt="img" class="img-polaroid">
+					<img src="assets/img/dojogama.svg" alt="img" class="img-polaroid">
+				</div>
+				
+				<div class="span4 well">
+					<img src="assets/img/dojogama.svg" alt="img" class="img-polaroid">
+					<img src="assets/img/dojogama.svg" alt="img" class="img-polaroid">
+					<img src="assets/img/dojogama.svg" alt="img" class="img-polaroid">
+				</div>
+				
+				<div class="span4 well">
+					<img src="assets/img/dojogama.svg" alt="img" class="img-polaroid">
+					<img src="assets/img/dojogama.svg" alt="img" class="img-polaroid">
+					<img src="assets/img/dojogama.svg" alt="img" class="img-polaroid">
+				</div>
+			</div>	
 		</div>
 
 		<footer class="footer jumbotron">
@@ -65,6 +97,15 @@
 			2013
 		</footer>
 	</div>
+
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.6.2.js"></script>
+	<script>
+		//JQuery para deixar o heigth das imagens = width dinâmico 
+	    var cw = $('.img-polaroid').width();
+	    $('.img-polaroid').css({
+	    'height': cw + 'px'
+	    });
+	</script>
 
 </body>
 </html>
