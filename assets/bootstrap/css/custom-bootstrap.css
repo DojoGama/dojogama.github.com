@@ -67,6 +67,7 @@ body {
 	color: #e8e8e1;
 	background: #f78820;
 	font-size: 220%;
+	font-weight: bold;
 	text-shadow: 0 1px 3px rgba(0,0,0,.4), 0 0 30px rgba(0,0,0,.075);
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -76,13 +77,13 @@ body {
 }
 
 .main-home-post {
-	background: #fff;
+	background: #e8e8e1;
 	font-size: 18px;
 	padding: 5px 5px 5px 5px;
 }
 
 .home-post {
-	background: #fff;
+	background: #e8e8e1;
 	font-size: 18px;
 	padding: 5px 5px 5px 5px;
 }
@@ -102,9 +103,8 @@ body {
 }
 
 .photos img{
-	width: 28%;
+	width: 29%;
 }
-
 .dojo{
 
 }
