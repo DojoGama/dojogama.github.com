@@ -105,18 +105,43 @@ body {
 .photos img{
 	width: 29%;
 }
+
 .dojo{
-
+	background: #f78820;
+	padding-left: 10px;
 }
 
-.dojo p{
-	padding-left: 15px;
-}
-
-.dojo-text{
-	padding-top: 10px;
-}
-
-.topic{
+.dojo-title{
+	color: #e8e8e1;
+	background: #f78820;
+	font-size: 220%;
 	font-weight: bold;
+	text-shadow: 0 1px 3px rgba(0,0,0,.4), 0 0 30px rgba(0,0,0,.075);
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+.dojo-body{
+	background: #e8e8e1;
+	padding-left: 10px;
+}
+
+.dojo-button{
+
+	padding: 5px 9px;
+	border-radius: 0px;
+	border: 0px solid #f78820;
+
+	background-color: #f78820;
+	font-size: 14px;
+	font-weight: bold;
+	color: #e8e8e1;
+
+	position: absolute;
+}
+
+.dojo-photos{
+
 }
