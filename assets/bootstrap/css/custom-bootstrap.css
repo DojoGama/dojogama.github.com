@@ -104,3 +104,19 @@ body {
 .photos img{
 	width: 28%;
 }
+
+.dojo{
+
+}
+
+.dojo p{
+	padding-left: 15px;
+}
+
+.dojo-text{
+	padding-top: 10px;
+}
+
+.topic{
+	font-weight: bold;
+}
