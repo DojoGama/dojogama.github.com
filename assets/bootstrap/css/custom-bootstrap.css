@@ -108,7 +108,7 @@ body {
 
 .dojo{
 	background: #f78820;
-	padding-left: 10px;
+	padding-left: 10px;	
 }
 
 .dojo-title{
@@ -126,6 +126,8 @@ body {
 .dojo-body{
 	background: #e8e8e1;
 	padding-left: 10px;
+	padd
+	position: relative;
 }
 
 .dojo-button{
@@ -140,8 +142,11 @@ body {
 	color: #e8e8e1;
 
 	position: absolute;
+	bottom: 0;
+	right: 0;
+
 }
 
 .dojo-photos{
-
+	background: #f78820;
 }
