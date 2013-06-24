@@ -109,7 +109,8 @@ body {
 .dojo{
 	background: #f78820;
 	padding-left: 10px;	
-	height: 500px;
+	padding-bottom: 10px;
+
 }
 
 .dojo-title{
@@ -126,8 +127,10 @@ body {
 }
 .dojo-body{
 	background: #e8e8e1;
+	padding-top: 10px;
 	padding-left: 10px;
 	position: relative;
+	height: 350px;
 }
 
 .dojo-button{
@@ -144,9 +147,33 @@ body {
 	position: absolute;
 	bottom: 0;
 	right: 0;
+}
 
+button.dojo-button:hover{
+	background: #e8e8e1;
+	color: #f78820;
+	border-left-style: solid;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-left-width: 1px;
+	border-color: #f78820;
 }
 
 .dojo-photos{
 	background: #f78820;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+}
+
+.dojo-photos img{
+	width: 75%;
+	background: #e8e8e1;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #e8e8e1;
+}
+
+.dojo-photos img:hover{
+	border-color: #3a8cb5;
 }
