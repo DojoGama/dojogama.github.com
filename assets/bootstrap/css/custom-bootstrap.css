@@ -109,6 +109,7 @@ body {
 .dojo{
 	background: #f78820;
 	padding-left: 10px;	
+	height: 500px;
 }
 
 .dojo-title{
@@ -126,7 +127,6 @@ body {
 .dojo-body{
 	background: #e8e8e1;
 	padding-left: 10px;
-	padd
 	position: relative;
 }
 
